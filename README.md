@@ -213,8 +213,7 @@ Every algorithm takes a list of process dictionaries (`id`, `arrival`, `burst`, 
 
 <div align="center">
 
-Made with ❤️ for **Operating System (ENCS351)**
-**Smruthi Jha ** 
+Made with ❤️ for **Operating System (ENCS351)** **Smruthi Jha** 
 
 
 </div>
