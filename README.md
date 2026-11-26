@@ -156,6 +156,7 @@ CPU-Scheduling-Visualizer/
 │   ├── multilevel_queue.py     # Multilevel Queue (Foreground RR + Background FCFS)
 │   ├── edf.py                  # Real-Time Earliest Deadline First
 │   └── multiprocessor.py       # Dual-Core Symmetric Multiprocessing (SMP)
+├── screenshots/
 ├── utils/
 │   ├── calculations.py         # WT, TAT, RT, CPU Utilization, Throughput, Context Switches
 │   ├── gantt_chart.py          # Single & multi-core Gantt charts, comparison graphs
