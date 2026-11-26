@@ -42,6 +42,24 @@ Reading hand-drawn Gantt charts is slow, and comparing algorithms by hand is err
 
 ---
 
+## 🖼️ Screenshots
+
+> Add your own screenshots to `screenshots/` using the file names below.
+
+| Simulation & Telemetry | Step-by-step dispatch scrubber |
+|:---:|:---:|
+| ![Benchmark](screenshots/Comparative Benchmarks tab.png) | ![Step view](screenshots/Dual core.png) |
+
+| Belady's Anomaly | Thrashing & Working Set |
+|:---:|:---:|
+| ![Belady](screenshots/Sim.png) | ![Thrashing](screenshots/thrashing.png) |
+
+| Allocation of Frames | Page Size Trade-offs |
+|:---:|:---:|
+| ![Allocation](screenshots/allocation.png) | ![Page Size Trade-offs](screenshots/tradeoff.png) |
+
+---
+
 ## 🧮 Supported Algorithms
 
 | # | Algorithm | Type | Key Idea |
