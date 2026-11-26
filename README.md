@@ -4,6 +4,8 @@
 
 **An interactive simulation and benchmarking platform for Operating Systems CPU scheduling.**
 
+### 🚀 [Live Demo](https://cpu-scheduler-visulaizer.streamlit.app/) &nbsp;|&nbsp; 📂 [Repository](https://github.com/smruthijha/cpu-scheduling-visualizer)
+
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-Charts-3F4F75?logo=plotly&logoColor=white)
