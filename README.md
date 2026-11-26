@@ -48,7 +48,7 @@ Reading hand-drawn Gantt charts is slow, and comparing algorithms by hand is err
 
 | Simulation & Telemetry | Step-by-step dispatch scrubber |
 |:---:|:---:|
-| ![Benchmark](screenshots/Comparative Benchmarks tab.png) | ![Step view](screenshots/Dual core.png) |
+| ![Benchmark](screenshots/Simulation&Telementry.png) | ![Step view](screenshots/step-by-step-dispatch.png) |
 
 | Belady's Anomaly | Thrashing & Working Set |
 |:---:|:---:|
