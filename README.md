@@ -52,7 +52,7 @@ Reading hand-drawn Gantt charts is slow, and comparing algorithms by hand is err
 
 | Dual Core | Thrashing & Working Set |
 |:---:|:---:|
-| ![Belady](screenshots/Dual_core.png) | ![Thrashing](screenshots/Comparatice_Benchmark_tab.png) |
+| ![Belady](screenshots/Dual_core.png) | ![Thrashing](screenshots/Comparative_Benchmark_tab.png) |
 
 
 ---
