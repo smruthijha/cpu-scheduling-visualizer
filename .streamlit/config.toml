@@ -1,0 +1,9 @@
+# Place this file at:  <your-project>/.streamlit/config.toml
+# It makes Streamlit's own widgets (data tables, charts, sliders) use the same dark theme.
+[theme]
+base = "dark"
+primaryColor = "#3b82f6"
+backgroundColor = "#0f172a"
+secondaryBackgroundColor = "#1e293b"
+textColor = "#e2e8f0"
+font = "sans serif"
