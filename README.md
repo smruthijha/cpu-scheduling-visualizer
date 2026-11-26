@@ -48,15 +48,12 @@ Reading hand-drawn Gantt charts is slow, and comparing algorithms by hand is err
 
 | Simulation & Telemetry | Step-by-step dispatch scrubber |
 |:---:|:---:|
-| ![Benchmark](screenshots/Simulation&Telementry.png) | ![Step view](screenshots/step-by-step-dispatch.png) |
+| ![Benchmark](screenshots/Simulation&Telemetry.png) | ![Step view](screenshots/step-by-step-dispatch.png) |
 
-| Belady's Anomaly | Thrashing & Working Set |
+| Dual Core | Thrashing & Working Set |
 |:---:|:---:|
-| ![Belady](screenshots/Sim.png) | ![Thrashing](screenshots/thrashing.png) |
+| ![Belady](screenshots/Dual_core.png) | ![Thrashing](screenshots/Comparatice_Benchmark_tab.png) |
 
-| Allocation of Frames | Page Size Trade-offs |
-|:---:|:---:|
-| ![Allocation](screenshots/allocation.png) | ![Page Size Trade-offs](screenshots/tradeoff.png) |
 
 ---
 
